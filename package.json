@@ -1,0 +1,12 @@
+{
+  "name": "react-indicision",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bluekraken/react-indicision.git",
+  "author": "Andrew Hearse <andy@claroh.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
